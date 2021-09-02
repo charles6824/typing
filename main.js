@@ -2,7 +2,7 @@ window.addEventListener('load', init)
 
 //-------------GLOBAL---------------
 const level = {
-    easy: 5,
+    easy: 15,
     medium: 3,
     hard: 2
 }
